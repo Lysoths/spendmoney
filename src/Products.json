@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Trafik Konisi 75 Cm",
+    "image": "https://basaraniselbiseleri.com/5098244fa1aa42e.png.jpg",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "title": "Jandarma Reflektör Yelek",
+    "image": "http://www.wolftraptactical.com/Uploads/UrunResimleri/buyuk/jandarma-asayis-fileli-yelek-48b3-8.png",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "title": "Dur-Geç Levhalı Bariyer",
+    "image": "https://www.jandarmatrafik.com/wp-content/uploads/2020/06/Dubal%C4%B1-Uyar%C4%B1-Levhas%C4%B1.jpg",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "Seyyar Projektör",
+    "image": "https://www.jandarmatrafik.com/wp-content/uploads/2020/06/Screenshot_2.png",
+    "price": 20
+  }
+]
