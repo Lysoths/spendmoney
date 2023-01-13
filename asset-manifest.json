@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lysoths.github.io/spendmoney/static/css/main.5d82207c.css",
-    "main.js": "/lysoths.github.io/spendmoney/static/js/main.bc495012.js",
-    "index.html": "/lysoths.github.io/spendmoney/index.html",
-    "main.5d82207c.css.map": "/lysoths.github.io/spendmoney/static/css/main.5d82207c.css.map",
-    "main.bc495012.js.map": "/lysoths.github.io/spendmoney/static/js/main.bc495012.js.map"
+    "main.css": "/spendmoney/static/css/main.5d82207c.css",
+    "main.js": "/spendmoney/static/js/main.bc495012.js",
+    "index.html": "/spendmoney/index.html",
+    "main.5d82207c.css.map": "/spendmoney/static/css/main.5d82207c.css.map",
+    "main.bc495012.js.map": "/spendmoney/static/js/main.bc495012.js.map"
   },
   "entrypoints": [
     "static/css/main.5d82207c.css",
